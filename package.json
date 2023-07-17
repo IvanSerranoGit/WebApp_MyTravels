@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/IvanSerranoGit/webApp_Travel/issues"
   },
-  "homepage": "https://github.com/IvanSerranoGit/webApp_Travel/public",
+  "homepage": "https://github.com/IvanSerranoGit/webApp_Travel/public/",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
   }

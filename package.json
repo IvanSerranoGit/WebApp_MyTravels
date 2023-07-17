@@ -1,0 +1,23 @@
+{
+  "name": "webapp_travel-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tw:build": "tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSerranoGit/webApp_Travel.git"
+  },
+  "author": "Iván Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSerranoGit/webApp_Travel/issues"
+  },
+  "homepage": "https://github.com/IvanSerranoGit/webApp_Travel#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
